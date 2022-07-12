@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Gamble/static/css/main.0f96db69.css",
-    "main.js": "/Gamble/static/js/main.3475d656.js",
+    "main.css": "/Gamble/static/css/main.b474da65.css",
+    "main.js": "/Gamble/static/js/main.f7535536.js",
     "static/js/787.ca78f21f.chunk.js": "/Gamble/static/js/787.ca78f21f.chunk.js",
     "static/media/shape-2.svg": "/Gamble/static/media/shape-2.4d6d7aea23e4ce5d2aa269d9a1bcd9e2.svg",
     "static/media/shape-1.svg": "/Gamble/static/media/shape-1.0e4730839a011c00169e9b2712c64d47.svg",
     "index.html": "/Gamble/index.html",
     "static/media/close.svg": "/Gamble/static/media/close.c0a53d8c5fecbac8c95db4e963c1b9be.svg",
     "static/media/menu-vertical.svg": "/Gamble/static/media/menu-vertical.ea85c6324da1bf14cb59cf928c071a3a.svg",
-    "main.0f96db69.css.map": "/Gamble/static/css/main.0f96db69.css.map",
-    "main.3475d656.js.map": "/Gamble/static/js/main.3475d656.js.map",
+    "main.b474da65.css.map": "/Gamble/static/css/main.b474da65.css.map",
+    "main.f7535536.js.map": "/Gamble/static/js/main.f7535536.js.map",
     "787.ca78f21f.chunk.js.map": "/Gamble/static/js/787.ca78f21f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f96db69.css",
-    "static/js/main.3475d656.js"
+    "static/css/main.b474da65.css",
+    "static/js/main.f7535536.js"
   ]
 }
