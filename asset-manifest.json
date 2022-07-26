@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Gamble/static/css/main.fef7f015.css",
-    "main.js": "/Gamble/static/js/main.1739b691.js",
+    "main.css": "/Gamble/static/css/main.f3f229a7.css",
+    "main.js": "/Gamble/static/js/main.6aec14ba.js",
     "static/js/787.ca78f21f.chunk.js": "/Gamble/static/js/787.ca78f21f.chunk.js",
     "static/media/moneybag.svg": "/Gamble/static/media/moneybag.7dabe4d20989b59a83f62ae8721cf252.svg",
     "static/media/shape-2.svg": "/Gamble/static/media/shape-2.4d6d7aea23e4ce5d2aa269d9a1bcd9e2.svg",
     "static/media/shape-3.svg": "/Gamble/static/media/shape-3.3df7f25b4cf089022c9cd4559f317b5b.svg",
     "static/media/shape-1.svg": "/Gamble/static/media/shape-1.0e4730839a011c00169e9b2712c64d47.svg",
     "index.html": "/Gamble/index.html",
+    "static/media/star.svg": "/Gamble/static/media/star.df9beb677ad1d08ebad63abc70bf10e8.svg",
     "static/media/selected.svg": "/Gamble/static/media/selected.95eaa2c829fd2a18ada702648114b9ee.svg",
     "static/media/close.svg": "/Gamble/static/media/close.eb66c5d5faaee4b4a2540894d0792233.svg",
     "static/media/dot.svg": "/Gamble/static/media/dot.6e4468f64f413d7d045c8c515031e1a8.svg",
     "static/media/menu-vertical.svg": "/Gamble/static/media/menu-vertical.d9fd7c25beac5894641af96c550536a1.svg",
-    "main.fef7f015.css.map": "/Gamble/static/css/main.fef7f015.css.map",
-    "main.1739b691.js.map": "/Gamble/static/js/main.1739b691.js.map",
+    "main.f3f229a7.css.map": "/Gamble/static/css/main.f3f229a7.css.map",
+    "main.6aec14ba.js.map": "/Gamble/static/js/main.6aec14ba.js.map",
     "787.ca78f21f.chunk.js.map": "/Gamble/static/js/787.ca78f21f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fef7f015.css",
-    "static/js/main.1739b691.js"
+    "static/css/main.f3f229a7.css",
+    "static/js/main.6aec14ba.js"
   ]
 }
